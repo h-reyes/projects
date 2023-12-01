@@ -3,4 +3,7 @@ Ideas for clicker game.
 EGG Clicker
 
 -Create egg sprite
+-Change background 
+-Add scoreboard
+-Bonus: add multiplyer, cracking egg affect
 
