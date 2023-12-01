@@ -1,0 +1,6 @@
+Ideas for clicker game.
+
+EGG Clicker
+
+-Create egg sprite
+
