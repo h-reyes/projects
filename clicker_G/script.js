@@ -10,7 +10,7 @@ function hiS(){
 }
 function reset(){
     click=0;
-    score.innerHTML=click;
+    score.innerHTML=points;
 }
 
 // if(points ===100){
