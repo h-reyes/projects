@@ -1,4 +1,18 @@
-/* @font-face {
-    font-family: ;
-    src: url();
+
+font {
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+}
+
+img { 
+ height:300px;
+ width: 300px;
+}
+/* made image 300x300px */
+
+h2{
+align-content: center;
+}
+/* #clear {
+height: 100px;
+width:100px;
 } */
