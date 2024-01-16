@@ -9,8 +9,8 @@ function hiS(){
     score.innerHTML = points
 }
 function reset(){
-    click=0;
-    score.innerHTML=points;
+    points = 0;
+    score.innerHTML= points;
 }
 
 // if(points ===100){
